@@ -23,10 +23,15 @@
 
 ## 👨‍💻 About Me
 
-Java backend engineer with **5+ years** of experience building high-volume financial systems for some of Latin America's largest banks including **Itaú Unibanco**, **Bradesco**, and **Santander**[...]
-
-My career has been focused on modernizing legacy systems and building resilient, scalable backends for the financial sector. I'm currently working on a mainframe-to-cloud migration at **CI&T** for the[...]
-
+Senior Backend Engineer with 5+ years designing and maintaining high-availability distributed systems for the financial sector — spanning payments, investments, current accounts, and credit cards at scale.
+Specialized in Java and Spring Boot, building event-driven microservices that process millions of transactions daily in mission-critical banking environments across Latin America's largest financial institutions.
+Core areas of expertise:
+▸ Production-grade microservices using Java 8,11,17, 21, Spring Boot 3, Kafka, and AWS  architected for fault tolerance, idempotency, and high throughput
+▸ Cloud-native infrastructure on AWS: SQS, SNS, RDS Aurora, DynamoDB, EC2, ECS, Lambda  provisioned with Terraform
+▸ Distributed systems patterns: Saga Choreography, Outbox Pattern, Circuit Breaker, CQRS, and Idempotency at scale
+▸ Observability and incident response with Dynatrace, Datadog, and ELK Stack in regulated, high-compliance environments
+▸ CI/CD automation with GitHub Actions, ArgoCD, and Jenkins  shipping to Kubernetes/OpenShift clusters daily
+▸ AI-assisted de
 > *"I build the systems that move money reliably, at scale, without excuses."*
 
 ---
