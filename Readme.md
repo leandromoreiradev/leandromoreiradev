@@ -31,7 +31,7 @@ Core areas of expertise:
 ▸ Distributed systems patterns: Saga Choreography, Outbox Pattern, Circuit Breaker, CQRS, and Idempotency at scale
 ▸ Observability and incident response with Dynatrace, Datadog, and ELK Stack in regulated, high-compliance environments
 ▸ CI/CD automation with GitHub Actions, ArgoCD, and Jenkins  shipping to Kubernetes/OpenShift clusters daily
-▸ AI-assisted de
+▸ AI-assisted development workflows (GitHub Copilot, Claude) integrated into code review, testing, and technical documentation
 > *"I build the systems that move money reliably, at scale, without excuses."*
 
 ---
