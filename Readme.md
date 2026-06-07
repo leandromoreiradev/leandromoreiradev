@@ -73,44 +73,6 @@ My career has been focused on modernizing legacy systems and building resilient,
 
 ---
 
-## 🏦 Experience Timeline
-
-```
-2026 ──► CI&T @ Itaú Unibanco (Largest bank in Latin America)
-          └─ Mainframe modernization · CNAB · Payment processing · Event-driven
-             Java 17 · Spring Boot · Kafka · AWS · Terraform · Aurora PostgreSQL
-
-2025 ──► Capgemini @ Bradesco (Top 3 private bank in Brazil)
-          └─ Monolith → Microservices migration · Credit card squad
-             Java · Spring Boot · Kubernetes · ArgoCD · GitHub Actions · Dynatrace
-
-2023 ──► NTT DATA (2 yrs 3 mos)
-          ├─ Client 1: Digital Investment Platform (Brazilian digital bank)
-          │   └─ SQS · DLQ · CDB investment flows · Async microservices
-          └─ Client 2: Enterprise Incident & Service Management SaaS
-              └─ REST APIs · SLA tracking · Distributed backend
-
-2022 ──► ilegra @ AGI Bank
-          └─ BFF + orchestration layer · Core banking (Topaz, Matera)
-             Spring WebFlux · Kafka · RabbitMQ
-
-2021 ──► Equifax | BoaVista
-          └─ PHP monolith → Java Spring Boot · React frontend APIs
-             RESTful API design · Domain boundaries
-
-2021 ──► Meta (gov.br — Naturalization Platform)
-          └─ Full Stack · Java Spring MVC · Angular · SQL Server
-
-2021 ──► Santander Tecnologia Brasil
-          └─ KYC customer registration · API Gateway · BACEN compliance
-
-2020 ──► Capgemini @ Bradesco (First contract)
-          └─ Salesforce CRM integration · Personalized offer delivery
-             Spring Cloud · Elastic Stack · Dynatrace
-```
-
----
-
 ## 🧠 Architecture & Patterns
 
 ```
@@ -148,23 +110,11 @@ My career has been focused on modernizing legacy systems and building resilient,
 ### 💳 Credit Card Platform Migration — Bradesco (via Capgemini)
 > Decomposed a monolithic customer service platform into independently deployable microservices. Implemented full CI/CD with GitHub Actions + ArgoCD on Kubernetes/OpenShift under BACEN compliance.
 
-### 📈 Digital Investment Platform — NTT DATA
+### 📈 Digital Investment Platform — Banco PAN (via NTT DATA_
 > Designed async microservices with SQS + DLQ for CDB investment transaction flows, ensuring zero message loss and financial data integrity for a major Brazilian digital bank.
 
 ### 🏦 Core Banking BFF — AGI Bank (via ilegra)
 > Built orchestration and BFF services connecting digital channels to core banking platforms (Topaz and Matera) using Spring WebFlux, Kafka, and RabbitMQ.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandromoreiradev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoreiradev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
-
-</div>
 
 ---
 
