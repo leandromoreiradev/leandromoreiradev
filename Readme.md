@@ -23,11 +23,11 @@
 
 ## 👨‍💻 About Me
 
-Java backend engineer with **5+ years** of experience building high-volume financial systems for some of Latin America's largest banks — including **Itaú Unibanco**, **Bradesco**, and **Santander**[...]
+Java backend engineer with **5+ years** of experience building high-volume financial systems for some of Latin America's largest banks including **Itaú Unibanco**, **Bradesco**, and **Santander**[...]
 
 My career has been focused on modernizing legacy systems and building resilient, scalable backends for the financial sector. I'm currently working on a mainframe-to-cloud migration at **CI&T** for the[...]
 
-> *"I build the systems that move money — reliably, at scale, without excuses."*
+> *"I build the systems that move money reliably, at scale, without excuses."*
 
 ---
 
