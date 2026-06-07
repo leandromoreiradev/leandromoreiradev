@@ -26,14 +26,16 @@
 Senior Backend Engineer with 5+ years designing and maintaining high-availability distributed systems for the financial sector — spanning payments, investments, current accounts, and credit cards at scale.
 Specialized in Java and Spring Boot, building event-driven microservices that process millions of transactions daily in mission-critical banking environments across Latin America's largest financial institutions.
 Core areas of expertise:
-!▸ Production-grade microservices using Java 8,11,17, 21, Spring Boot 3, Kafka, and AWS  architected for fault tolerance, idempotency, and high throughput
-!▸ Cloud-native infrastructure on AWS: SQS, SNS, RDS Aurora, DynamoDB, EC2, ECS, Lambda  provisioned with Terraform
-!▸ Distributed systems patterns: Saga Choreography, Outbox Pattern, Circuit Breaker, CQRS, and Idempotency at scale
-!▸ Observability and incident response with Dynatrace, Datadog, and ELK Stack in regulated, high-compliance environments
-!▸ CI/CD automation with GitHub Actions, ArgoCD, and Jenkins  shipping to Kubernetes/OpenShift clusters daily
-!▸ AI-assisted development workflows (GitHub Copilot, Claude) integrated into code review, testing, and technical documentation
+```
+▸ Production-grade microservices using Java 8,11,17, 21, Spring Boot 3, Kafka, and AWS  architected for fault tolerance, idempotency, and high throughput
+▸ Cloud-native infrastructure on AWS: SQS, SNS, RDS Aurora, DynamoDB, EC2, ECS, Lambda  provisioned with Terraform
+▸ Distributed systems patterns: Saga Choreography, Outbox Pattern, Circuit Breaker, CQRS, and Idempotency at scale
+▸ Observability and incident response with Dynatrace, Datadog, and ELK Stack in regulated, high-compliance environments
+▸ CI/CD automation with GitHub Actions, ArgoCD, and Jenkins  shipping to Kubernetes/OpenShift clusters daily
+▸ AI-assisted development workflows (GitHub Copilot, Claude) integrated into code review, testing, and technical documentation
 > *"I build the systems that move money reliably, at scale, without excuses."*
 
+```
 ---
 
 ## 🛠️ Tech Stack
