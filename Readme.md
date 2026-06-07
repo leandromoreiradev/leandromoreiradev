@@ -111,10 +111,10 @@ My career has been focused on modernizing legacy systems and building resilient,
 ### 💳 Credit Card Platform Migration — Bradesco (via Capgemini)
 > Decomposed a monolithic customer service platform into independently deployable microservices. Implemented full CI/CD with GitHub Actions + ArgoCD on Kubernetes/OpenShift under BACEN compliance.
 
-### 📈 Digital Investment Platform — NTT DATA
+### 📈 Digital Investment Platform —  Banco PAN (via NTTDATA)
 > Designed async microservices with SQS + DLQ for CDB investment transaction flows, ensuring zero message loss and financial data integrity for a major Brazilian digital bank.
 
-### 🏦 Core Banking BFF — AGI Bank (via ilegra)
+### 🏦 Core Banking BFF — AGI Bank (via Ilegra)
 > Built orchestration and BFF services connecting digital channels to core banking platforms (Topaz and Matera) using Spring WebFlux, Kafka, and RabbitMQ.
 
 ---
