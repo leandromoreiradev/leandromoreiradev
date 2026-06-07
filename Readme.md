@@ -13,7 +13,7 @@
 
 **Fintech · Distributed Systems · Cloud-Native Architecture**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandromoreiradev)
 [![Location](https://img.shields.io/badge/Guarulhos%2C_SP_–_Brazil-🇧🇷-222?style=for-the-badge)](https://www.google.com/maps/place/Guarulhos)
 [![Open to Work](https://img.shields.io/badge/Open_to_Remote_Roles-brightgreen?style=for-the-badge&logo=homeadvisor&logoColor=white)](#)
 
@@ -23,11 +23,11 @@
 
 ## 👨‍💻 About Me
 
-Java backend engineer with **5+ years** of experience building high-volume financial systems for some of Latin America's largest banks including **Itaú Unibanco**, **Bradesco**, and **Santander**. I specialize in **cloud-native microservices**, **event-driven architecture**, and **payment processing infrastructure**.
+Java backend engineer with **5+ years** of experience building high-volume financial systems for some of Latin America's largest banks — including **Itaú Unibanco**, **Bradesco**, and **Santander**[...]
 
-My career has been focused on modernizing legacy systems and building resilient, scalable backends for the financial sector. I'm currently working on a mainframe-to-cloud migration at **CI&T** for the **largest bank in Latin America**, handling critical payment and reconciliation flows.
+My career has been focused on modernizing legacy systems and building resilient, scalable backends for the financial sector. I'm currently working on a mainframe-to-cloud migration at **CI&T** for the[...]
 
-> *"I build the systems that move money reliably, at scale, without excuses."*
+> *"I build the systems that move money — reliably, at scale, without excuses."*
 
 ---
 
@@ -71,6 +71,43 @@ My career has been focused on modernizing legacy systems and building resilient,
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C5D927?style=for-the-badge&logo=java&logoColor=black)
 
+---
+
+## 🏦 Experience Timeline
+
+```
+2026 ──► CI&T @ Itaú Unibanco (Largest bank in Latin America)
+          └─ Mainframe modernization · CNAB · Payment processing · Event-driven
+             Java 17 · Spring Boot · Kafka · AWS · Terraform · Aurora PostgreSQL
+
+2025 ──► Capgemini @ Bradesco (Top 3 private bank in Brazil)
+          └─ Monolith → Microservices migration · Credit card squad
+             Java · Spring Boot · Kubernetes · ArgoCD · GitHub Actions · Dynatrace
+
+2023 ──► NTT DATA (2 yrs 3 mos)
+          ├─ Client 1: Digital Investment Platform (Brazilian digital bank)
+          │   └─ SQS · DLQ · CDB investment flows · Async microservices
+          └─ Client 2: Enterprise Incident & Service Management SaaS
+              └─ REST APIs · SLA tracking · Distributed backend
+
+2022 ──► ilegra @ AGI Bank
+          └─ BFF + orchestration layer · Core banking (Topaz, Matera)
+             Spring WebFlux · Kafka · RabbitMQ
+
+2021 ──► Equifax | BoaVista
+          └─ PHP monolith → Java Spring Boot · React frontend APIs
+             RESTful API design · Domain boundaries
+
+2021 ──► Meta (gov.br — Naturalization Platform)
+          └─ Full Stack · Java Spring MVC · Angular · SQL Server
+
+2021 ──► Santander Tecnologia Brasil
+          └─ KYC customer registration · API Gateway · BACEN compliance
+
+2020 ──► Capgemini @ Bradesco (First contract)
+          └─ Salesforce CRM integration · Personalized offer delivery
+             Spring Cloud · Elastic Stack · Dynatrace
+```
 
 ---
 
@@ -106,15 +143,15 @@ My career has been focused on modernizing legacy systems and building resilient,
 ## 📌 Highlight Projects
 
 ### 🔁 Mainframe Modernization — Itaú Unibanco (via CI&T)
-> Migrating critical payment processing and financial file exchange workflows from mainframe to cloud-native microservices. Responsible for CNAB file generation/processing services and event-driven integrations across AWS services.
+> Migrating critical payment processing and financial file exchange workflows from mainframe to cloud-native microservices. Responsible for CNAB file generation/processing services and event-driven in[...]
 
 ### 💳 Credit Card Platform Migration — Bradesco (via Capgemini)
 > Decomposed a monolithic customer service platform into independently deployable microservices. Implemented full CI/CD with GitHub Actions + ArgoCD on Kubernetes/OpenShift under BACEN compliance.
 
-### 📈 Digital Investment Platform —  Banco PAN (via NTTDATA)
+### 📈 Digital Investment Platform — NTT DATA
 > Designed async microservices with SQS + DLQ for CDB investment transaction flows, ensuring zero message loss and financial data integrity for a major Brazilian digital bank.
 
-### 🏦 Core Banking BFF — AGI Bank (via Ilegra)
+### 🏦 Core Banking BFF — AGI Bank (via ilegra)
 > Built orchestration and BFF services connecting digital channels to core banking platforms (Topaz and Matera) using Spring WebFlux, Kafka, and RabbitMQ.
 
 ---
@@ -123,9 +160,9 @@ My career has been focused on modernizing legacy systems and building resilient,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandromoreiradev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoreiradev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
 
@@ -135,8 +172,8 @@ My career has been focused on modernizing legacy systems and building resilient,
 
 I'm actively looking for **Senior Java/Backend remote roles** — especially in **fintech, payments, or distributed systems** at US or European companies.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandromoreiradev)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandromoreiradev@gmail.com)
 
 ---
 
@@ -144,6 +181,6 @@ I'm actively looking for **Senior Java/Backend remote roles** — especially in 
 
 *"The best payment system is the one the customer never notices — because it just works."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=leandromoreiradev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
