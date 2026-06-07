@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Backend Engineer with 5+ years designing and maintaining high-availability distributed systems for the financial sector — spanning payments, investments, current accounts, and credit cards at scale.
+Senior Backend Engineer with 5+ years designing and maintaining high-availability distributed systems for the financial sector spanning payments, investments, current accounts, and credit cards at scale.
 Specialized in Java and Spring Boot, building event-driven microservices that process millions of transactions daily in mission-critical banking environments across Latin America's largest financial institutions.
 Core areas of expertise:
 ```
